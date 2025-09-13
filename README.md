@@ -1,102 +1,142 @@
-<!-- Header Banner -->
+<!-- Header Banner (keep your SVG minimal: name only) -->
 <p align="center">
-  <img src="assets/header.svg" alt="Chirag Bheemaiah PK — Building reliable and scalable systems">
+  <img src="assets/header.svg" alt="Chirag Bheemaiah PK" width="820">
 </p>
 
-<!-- Contact / Quick Actions -->
+<h1 align="center">Chirag Bheemaiah PK</h1>
+
 <p align="center">
-  <a href="https://github.com/chiragbheemaiah">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c2410c&labelColor=111111">
-  </a>
-  <a href="https://www.linkedin.com/in/chirag-bheemaiah/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c2410c&labelColor=111111">
-  </a>
-  <a href="mailto:chirag.bheemaiah@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=c2410c&labelColor=111111">
-  </a>
-  <a href="./Chirag_Bheemaiah_CV.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/-Resume-0a0a0a?style=for-the-badge&logo=readthedocs&logoColor=c2410c&labelColor=111111">
-  </a>
+  <em>Engineering distributed systems that scale — performance, simplicity, and innovation in distributed systems, cloud infrastructure, and ML-powered tooling.</em>
 </p>
 
-<!-- Local Nav Pills -->
 <p align="center">
-  <a href="#experience"><img src="https://img.shields.io/badge/-Experience-0a0a0a?style=flat&labelColor=111111&color=c2410c"></a>
-  <a href="#education"><img src="https://img.shields.io/badge/-Education-0a0a0a?style=flat&labelColor=111111&color=c2410c"></a>
-  <a href="#key-skills"><img src="https://img.shields.io/badge/-Skills-0a0a0a?style=flat&labelColor=111111&color=c2410c"></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/-Projects-0a0a0a?style=flat&labelColor=111111&color=c2410c"></a>
+  <a href="https://github.com/chiragbheemaiah">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/chirag-bheemaiah/">LinkedIn</a> ·
+  <a href="mailto:chirag.bheemaiah@gmail.com">Email</a> ·
+  <a href="./Chirag_Bheemaiah_CV.pdf">Resume</a>
 </p>
+
+<br/>
 
 ---
 
-> **Engineering distributed systems that scale**  
-> Performance, simplicity, and innovation in distributed systems, cloud infrastructure, and ML-powered tooling.
+## Table of Contents
+- [Key Skills](#key-skills)
+- [Education](#education)
+- [Experience](#experience)
+- [Certifications](#certifications)
+- [Featured Projects](#featured-projects)
+
+---
+
+<br/>
+
+## Key Skills
+
+<table>
+  <tr>
+    <td>
+      <strong>Languages</strong><br/>
+      <code>Go</code> · <code>Python</code> · <code>C++</code> · <code>C</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>SQL</code>
+    </td>
+    <td>
+      <strong>Systems & Distributed</strong><br/>
+      <code>Linux</code> · <code>Networking/Sockets</code> · <code>gRPC</code> · <code>Multithreading</code> · <code>Kafka</code> · <code>Kubernetes</code> · <code>Fault tolerance</code>
+    </td>
+    <td>
+      <strong>Cloud & DevOps</strong><br/>
+      <code>AWS (EC2)</code> · <code>GCP</code> · <code>Docker</code> · <code>Terraform</code> · <code>GitHub Actions</code> · <code>CI/CD</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>ML / AI</strong><br/>
+      <code>PyTorch</code> · <code>TensorFlow</code> · <code>scikit-learn</code> · <code>ONNX Runtime</code> · <code>TVM</code> · <code>YOLOv8</code> · <code>ByteTrack</code> · <code>EfficientNet</code> · <code>QLoRA</code> · <code>RLHF</code> · <code>PTQ</code> · <code>2:4 pruning</code> · <code>JIT</code>
+    </td>
+    <td>
+      <strong>RAG & Code Models</strong><br/>
+      <code>CodeBERT</code> · <code>CodeT5</code> · <code>CodeLlama</code> · <code>LlamaIndex</code> · <code>LangChain</code> · <code>Pinecone</code>
+    </td>
+    <td>
+      <strong>Web/Backend & DB</strong><br/>
+      <code>Flask</code> · <code>NodeJS</code> · <code>Express</code> · <code>React</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>PyTest</code> · <code>Git/GitHub</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## Education
+
+**Master of Computer Science — North Carolina State University** · GPA: <strong>4.0/4.0</strong>  
+**Bachelor of Information Technology — SSN College of Engineering, Anna University** · GPA: <strong>9.16/10</strong>
+
+<br/>
 
 ---
 
 ## Experience
-- **FinSurge — SWE Intern**  
-  Built an OCR pipeline (Flask API + React UI), containerized with Docker and deployed on AWS. Automated pipelines with CI/CD.
 
-## Education
-- **Master of Computer Science** — North Carolina State University · **GPA:** 4.0/4.0  
-- **Bachelor of Information Technology** — SSN College of Engineering, Anna University · **GPA:** 9.16/10
+**FinSurge — SWE Intern**  
+Built an OCR pipeline (Flask API + React UI), containerized with Docker and deployed on AWS. Automated pipelines with CI/CD.
+
+<br/>
+
+---
 
 ## Certifications
-- **AWS Certified Cloud Practitioner**
 
-## Key Skills
-**Languages:** `Go` · `Python` · `C++` · `C` · `TypeScript` · `JavaScript` · `SQL`  
-**Distributed & Systems:** `Linux` · `Networking/Sockets` · `gRPC` · `Multithreading` · `Kubernetes` · `Kafka` · `Fault tolerance`  
-**ML / AI:** `PyTorch` · `TensorFlow` · `scikit-learn` · `ONNX Runtime` · `Apache TVM` · `YOLOv8` · `ByteTrack` · `EfficientNet` · `LPRNet` · `QLoRA` · `RLHF` · `PTQ` · `2:4 pruning` · `JIT`  
-**RAG & Code Models:** `CodeBERT` · `CodeT5` · `CodeLlama` · `LlamaIndex` · `LangChain` · `Pinecone`  
-**Cloud & DevOps:** `AWS (EC2)` · `GCP` · `Docker` · `GitHub Actions` · `Terraform` · `CI/CD` · `ROS` · `Gazebo (headless)`  
-**Web/Backend:** `Flask` · `NodeJS` · `Express` · `React`  
-**Databases & Storage:** `MySQL` · `MongoDB`  
-**Testing & Tooling:** `PyTest` · `Git/GitHub`
+**AWS Certified Cloud Practitioner**
+
+<br/>
 
 ---
 
 ## Featured Projects
 
-### AI-Powered Automated Test Case Generation — Large Language Models  
-**Repo:** [`unit-test-generation`](https://github.com/chiragbheemaiah/unit-test-generation)  
-Automated test-suite generator using CodeBERT/CodeT5/CodeLlama with RAG (Pinecone, LlamaIndex) and RLHF.  
-<img alt="stars" src="https://img.shields.io/github/stars/chiragbheemaiah/unit-test-generation?style=flat&label=stars&color=c2410c&labelColor=111111">&nbsp;
-<img alt="last commit" src="https://img.shields.io/github/last-commit/chiragbheemaiah/unit-test-generation?style=flat&color=c2410c&labelColor=111111">
-
-### Optimized License Plate Recognition (LPR) System — ML Compiler Optimization  
-**Repo:** [`LPRNet_CSC591`](https://github.com/chiragbheemaiah/LPRNet_CSC591)  
-78% model compression via PTQ, 2:4 pruning, JIT, and ML-compiler optimizations; 2.2× faster inference on ONNX Runtime.  
-<img alt="stars" src="https://img.shields.io/github/stars/chiragbheemaiah/LPRNet_CSC591?style=flat&label=stars&color=c2410c&labelColor=111111">&nbsp;
-<img alt="last commit" src="https://img.shields.io/github/last-commit/chiragbheemaiah/LPRNet_CSC591?style=flat&color=c2410c&labelColor=111111">
-
-### Distributed Security Threat Detection System — Distributed Systems  
-**Repo:** [`Distributed-Threat-Detection-System`](https://github.com/chiragbheemaiah/Distributed-Threat-Detection-System)  
-Scalable, fault-tolerant real-time security monitoring across Kubernetes nodes; Kafka-based event streaming and quarantine.  
-<img alt="stars" src="https://img.shields.io/github/stars/chiragbheemaiah/Distributed-Threat-Detection-System?style=flat&label=stars&color=c2410c&labelColor=111111">&nbsp;
-<img alt="last commit" src="https://img.shields.io/github/last-commit/chiragbheemaiah/Distributed-Threat-Detection-System?style=flat&color=c2410c&labelColor=111111">
-
-### CI/CD Pipeline for Autonomous Robotic Systems using GitHub Actions — DevOps  
-**Repo:** [`Integrating-Headless-Gazebo-into-GitHub-Actions`](https://github.com/chiragbheemaiah/Integrating-Headless-Gazebo-into-GitHub-Actions)  
-Headless Gazebo simulations integrated into GitHub Actions; custom Docker images and multi-stage workflows with tests.  
-<img alt="stars" src="https://img.shields.io/github/stars/chiragbheemaiah/Integrating-Headless-Gazebo-into-GitHub-Actions?style=flat&label=stars&color=c2410c&labelColor=111111">&nbsp;
-<img alt="last commit" src="https://img.shields.io/github/last-commit/chiragbheemaiah/Integrating-Headless-Gazebo-into-GitHub-Actions?style=flat&color=c2410c&labelColor=111111">
-
-### Livestock Behavior Classification — Research Project  
-**Repo:** [`PigTracking`](https://github.com/chiragbheemaiah/PigTracking)  
-YOLOv8 + ByteTrack + EfficientNet pipeline to classify feeding, lying, and moving behaviors in video; evaluation tooling.  
-<img alt="stars" src="https://img.shields.io/github/stars/chiragbheemaiah/PigTracking?style=flat&label=stars&color=c2410c&labelColor=111111">&nbsp;
-<img alt="last commit" src="https://img.shields.io/github/last-commit/chiragbheemaiah/PigTracking?style=flat&color=c2410c&labelColor=111111">
-
-### Maverick Ticketing System — Full-Stack Development  
-React + Express + NodeJS + MySQL web app with Docker/Kubernetes orchestration and comprehensive test coverage.
+### AI-Powered Automated Test Case Generation · LLM + RAG
+**Repo:** [unit-test-generation](https://github.com/chiragbheemaiah/unit-test-generation)  
+**Highlights:** Automated test-suite generator using CodeBERT/CodeT5/CodeLlama; retrieval-augmented context with Pinecone/LlamaIndex; RLHF pipeline.  
+**Stack:** `Python` · `PyTorch` · `RAG` · `Pinecone` · `LlamaIndex` · `GitHub Actions`
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Dark%20Theme%20Friendly-0a0a0a?style=flat&labelColor=111111&color=0a0a0a">
-  <img src="https://img.shields.io/badge/-Accent:%20%23c2410c-0a0a0a?style=flat&labelColor=111111&color=0a0a0a">
-</p>
+### Optimized License Plate Recognition (LPR) · ML Compiler
+**Repo:** [LPRNet_CSC591](https://github.com/chiragbheemaiah/LPRNet_CSC591)  
+**Highlights:** ~78% compression via PTQ + 2:4 pruning + JIT; 2.2× faster inference on ONNX Runtime with accuracy preserved.  
+**Stack:** `ONNX Runtime` · `PyTorch` · `TVM` · `Quantization` · `Pruning`
 
-<p align="center">© 2025 <strong>Chirag Bheemaiah PK</strong></p>
+---
+
+### Distributed Security Threat Detection System · Distributed Systems
+**Repo:** [Distributed-Threat-Detection-System](https://github.com/chiragbheemaiah/Distributed-Threat-Detection-System)  
+**Highlights:** Scalable, fault-tolerant real-time security monitoring across k8s nodes; Kafka-based event streaming; automated quarantine workflow.  
+**Stack:** `Go` · `Kafka` · `Kubernetes` · `Docker` · `gRPC` · `CI/CD`
+
+---
+
+### CI/CD for Autonomous Robotics · Headless Gazebo
+**Repo:** [Integrating-Headless-Gazebo-into-GitHub-Actions](https://github.com/chiragbheemaiah/Integrating-Headless-Gazebo-into-GitHub-Actions)  
+**Highlights:** Headless Gazebo simulations in CI; custom containers; multi-stage workflows with deterministic tests.  
+**Stack:** `GitHub Actions` · `Docker` · `ROS` · `Gazebo`
+
+---
+
+### Livestock Behavior Classification · Research
+**Repo:** [PigTracking](https://github.com/chiragbheemaiah/PigTracking)  
+**Highlights:** YOLOv8 + ByteTrack + EfficientNet to classify feeding/lying/moving; evaluation tooling for time-series video.  
+**Stack:** `PyTorch` · `YOLOv8` · `ByteTrack` · `EfficientNet`
+
+---
+
+### Maverick Ticketing System · Full-Stack
+**Highlights:** React + Express + Node + MySQL; Docker/Kubernetes orchestration; comprehensive test coverage.  
+**Stack:** `React` · `NodeJS` · `Express` · `MySQL` · `Docker` · `Kubernetes`
+
+<br/>
+
+<p align="center">
+  <sub>© 2025 <strong>Chirag Bheemaiah PK</strong></sub>
+</p>
