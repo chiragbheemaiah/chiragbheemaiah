@@ -3,8 +3,6 @@
   <img src="assets/header.svg" alt="Chirag Bheemaiah PK" width="820">
 </p>
 
-<h1 align="center">Chirag Bheemaiah PK</h1>
-
 <p align="center">
   <em>Engineering distributed systems that scale — performance, simplicity, and innovation in distributed systems, cloud infrastructure, and ML-powered tooling.</em>
 </p>
