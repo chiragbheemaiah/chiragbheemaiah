@@ -135,8 +135,9 @@ Built an OCR pipeline (Flask API + React UI), containerized with Docker and depl
 ---
 
 ### Maverick Ticketing System · Full-Stack
-**Highlights:** React + Express + Node + MySQL; Docker/Kubernetes orchestration; comprehensive test coverage.  
-**Stack:** `React` · `NodeJS` · `Express` · `MySQL` · `Docker` · `Kubernetes`
+**Repo:** [MTS](https://github.com/chiragbheemaiah/Maverick-Ticket-Booking-Service)
+**Highlights:** Ruby + Ruby on Rails + MySQL; Docker/Kubernetes orchestration; comprehensive test coverage.  
+**Stack:** `Ruby on Rails`· `MySQL` · `Docker` · `Kubernetes`
 
 <br/>
 
