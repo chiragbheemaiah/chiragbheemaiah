@@ -97,9 +97,10 @@ Built an OCR pipeline (Flask API + React UI), containerized with Docker and depl
 
 ---
 
+
 ### Optimized License Plate Recognition (LPR) · ML Compiler
 **Repo:** [LPRNet_CSC591](https://github.com/chiragbheemaiah/LPRNet_CSC591)  
-**Highlights:** ~78% compression via PTQ + 2:4 pruning + JIT; 2.2× faster inference on ONNX Runtime with accuracy preserved.  
+**Highlights:** ~78% compression via Post Training Quantization + 2:4 pruning + JIT; 2.2× faster inference on ONNX Runtime with accuracy preserved.  
 **Stack:** `ONNX Runtime` · `PyTorch` · `TVM` · `Quantization` · `Pruning`
 
 ---
@@ -108,6 +109,14 @@ Built an OCR pipeline (Flask API + React UI), containerized with Docker and depl
 **Repo:** [Distributed-Threat-Detection-System](https://github.com/chiragbheemaiah/Distributed-Threat-Detection-System)  
 **Highlights:** Scalable, fault-tolerant real-time security monitoring across k8s nodes; Kafka-based event streaming; automated quarantine workflow.  
 **Stack:** `Go` · `Kafka` · `Kubernetes` · `Docker` · `gRPC` · `CI/CD`
+
+---
+
+
+### Distributed Systems from Scratch in CPP
+**Repo:** [P2p_Network_Implementation](https://github.com/chiragbheemaiah/P2P-Network-Implementation)  
+**Highlights:** Developed a distributed marketplace with buyers and sellers communicating over TCP through sockets and dockerized over a network Performed rigourous analysis to understand how these systems work.  
+**Stack:** `C++` · `Docker Networking` · `Thread Pools` · `Socket Programming`
 
 ---
 
