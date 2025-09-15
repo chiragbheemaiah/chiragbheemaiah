@@ -49,11 +49,7 @@
   <tr>
     <td>
       <strong>ML / AI</strong><br/>
-      <code>PyTorch</code> · <code>TensorFlow</code> · <code>scikit-learn</code> · <code>ONNX Runtime</code> · <code>TVM</code> · <code>YOLOv8</code> · <code>ByteTrack</code> · <code>EfficientNet</code> · <code>QLoRA</code> · <code>RLHF</code> · <code>PTQ</code> · <code>2:4 pruning</code> · <code>JIT</code>
-    </td>
-    <td>
-      <strong>RAG & Code Models</strong><br/>
-      <code>CodeBERT</code> · <code>CodeT5</code> · <code>CodeLlama</code> · <code>LlamaIndex</code> · <code>LangChain</code> · <code>Pinecone</code>
+      <code>PyTorch</code> · <code>TensorFlow</code> · <code>scikit-learn</code> · <code>ONNX Runtime</code> · <code>TVM</code>  · <code>QLoRA</code> · <code>RLHF</code> · <code>Post Training Quantization </code> · <code>Pruning</code> · <code>JIT</code> . <code>LlamaIndex</code> · <code>LangChain</code> · <code>Pinecone</code>
     </td>
     <td>
       <strong>Web/Backend & DB</strong><br/>
