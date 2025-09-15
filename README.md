@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>Engineering distributed systems that scale — performance, simplicity, and innovation in distributed systems, cloud infrastructure, and ML-powered tooling.</em>
+  <em> Hi, I’m Chirag. I like exploring the space where systems and machine learning meet, making big things scale and clever things work smoothly. I’ve built tools for distributed training, cloud infrastructure, and research in computer vision. I enjoy learning, building, and sharing along the way. If you ever want to swap ideas or just chat tech, feel free to reach out. </em>
 </p>
 
 <p align="center">
